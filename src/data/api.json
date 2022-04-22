@@ -1,0 +1,94 @@
+{
+
+  "banner": [
+    "https://uploadbrasa.s3.amazonaws.com/9cc0766c94dbb95d0ba281fcb4bcfb4a-Banner-0.jpeg",
+    "https://uploadbrasa.s3.amazonaws.com/94bdf5d07ece657bb1f3c68cb499c698-Banner-2.jpg",
+    "https://uploadbrasa.s3.amazonaws.com/b2cf6acfa2a422b54c30ea154780afac-Banner-1.jpg"
+  ],
+  "categories": [
+    
+    {
+      "id": 1,
+      "name": "Burger",
+      "color": "#9fd236",
+      "image": "https://uploadbrasa.s3.amazonaws.com/5736872098e1cda97f82f59ab1adbd49-Burger.png"
+    },
+    
+    {
+      "id": 4,
+      "name": "Drink",
+      "color": "#f2f2f2",
+      "image": "https://uploadbrasa.s3.amazonaws.com/d7baaae2b175514b02454eb5f0aecc5a-Drink.png"
+    }
+  ],
+  "food": [
+    {
+      "name": "Brasa Costela",
+      "price": 24,
+      "categorie": 1,
+      "image": "https://uploadbrasa.s3.amazonaws.com/430c0ceccccde6759fd5dccf44715072-BrasaCostela.png"
+    },
+    {
+      "name": "Brasa Frango",
+      "price": 20,
+      "categorie": 1,
+      "image": "https://uploadbrasa.s3.amazonaws.com/f273235ae876fff45dffcee9c249a155-BrasaFrango.png"
+    },
+    {
+      "name": "Brasa Picante",
+      "price": 21,
+      "categorie": 1,
+      "image": "https://uploadbrasa.s3.amazonaws.com/b563c2e76dfbf35cf6015ba53774d53f-BrasaPicante.png"
+    },
+    {
+      "name": "Brasa Classic",
+      "price": 22,
+      "categorie": 1,
+      "image": "https://uploadbrasa.s3.amazonaws.com/975484b07143b3ca53d50343b8f66450-BrasaClassic.png"
+    },
+    {
+      "name": "Brasa Bacon",
+      "price": 26,
+      "categorie": 1,
+      "image": "https://uploadbrasa.s3.amazonaws.com/82736bd1233e3b53bfd15497004989e7-BrasaBacon.png"
+    },
+    {
+      "name": "Brasa Pernil",
+      "price": 25,
+      "categorie": 1,
+      "image": "https://uploadbrasa.s3.amazonaws.com/826f7595c5137b2fadbc98a708dec56c-BrasaPernil.png"
+    },
+    {
+      "name": "Brasa Kids",
+      "price": 16,
+      "categorie": 1,
+      "image": "https://uploadbrasa.s3.amazonaws.com/05f89e9993722a0c96d8626ae0e309b8-BrasaKids.png"
+    },
+    
+    
+    {
+      "name": "Coca cola",
+      "price": 2,
+      "categorie": 4,
+      "image": "https://uploadbrasa.s3.amazonaws.com/082698b97899ef1604f965dd2f3edf37-cocacola.png"
+    },
+    {
+      "name": "Pepsi",
+      "price": 2,
+      "categorie": 4,
+      "image": "http://tutofox.com/foodapp//food/drink/pepsi.png"
+    },
+    {
+      "name": "Quatro",
+      "price": 2,
+      "categorie": 4,
+      "image": "http://tutofox.com/foodapp//food/drink/quatro.png"
+    },
+    {
+      "name": "Sprite",
+      "price": 2,
+      "categorie": 4,
+      "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+    }
+  ]
+  }
